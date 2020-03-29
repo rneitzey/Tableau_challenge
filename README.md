@@ -1,4 +1,4 @@
-# Welcome to ![Alt text](master/rneitzey/citibike.jpg?raw=true "Optional Title") represents!
+# Welcome to ![Alt text](rneitzey/citibike.jpg?raw=true "Optional Title") represents!
 
 ## Data presented
 Due to the massive amount of data, I decided to pull in only Jersey City data from May and June for 2018 and 2019. This will give us higher numbers during good weather months; one being a summer month. Please follow along with my [CityBike Tableau presentation](https://public.tableau.com/profile/regina.neitzey#!/vizhome/CityBike_15846743652260/20182019fromMayJune-JerseyCitydata). 

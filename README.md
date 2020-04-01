@@ -1,7 +1,7 @@
 # Welcome to ![citibike logo](https://github.com/rneitzey/Tableau_challenge/blob/master/citibike.jpg) represents!
 
 ## Data presented
-Due to the massive amount of data, I decided to pull in only Jersey City data from May and June for 2018 and 2019. This will give us higher numbers during good weather months; one being a summer month. Please follow along with my [CityBike Tableau Story](https://public.tableau.com/profile/regina.neitzey#!/vizhome/CityBike_15846743652260/20182019fromMayJune-JerseyCitydata). 
+Due to the massive amount of data, I decided to pull in only Jersey City data from May and June for 2018 and 2019. This will give us higher numbers during good weather months; one being a summer month. Please follow along with my [CityBike Tableau Story](https://public.tableau.com/profile/regina.neitzey#!/vizhome/CityBike_15846743652260/Citibike20182019andMayJune-JerseyCitydata). 
 
 ## Requested city maps
 In the first story tab, you can see that popular start stations are almost the same as the popular end station with just some slight variance in numbers. This indicates that completed journeys for the day trend toward starting and ending at the same stations.  But, most individual journeys end at different stations than where they began along the way. This indicates that people are probably using them for directed transportation to complete an errand and not just for exercise or pleasure. Although in the second story tab, you can see that Saturday numbers rose significantly in June, probably due to summer bike rides just for pleasure or exercise. Is this due to the 30 minute limit between start and stop before more fees are incurred? Might it be profitable to create passes that include extended ride times to pull in the exercise community?
